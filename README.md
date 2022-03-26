@@ -1,6 +1,5 @@
 # Frontend Mentor - Stats preview card component
-# check out!!
-# https://sandeep-0701.github.io/stats-preview-card-component-main/
+# check out!! => https://sandeep-0701.github.io/stats-preview-card-component-main/
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
